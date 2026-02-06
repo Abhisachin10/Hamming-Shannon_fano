@@ -1,4 +1,4 @@
-![IMG_20260206_143640 jpg](https://github.com/user-attachments/assets/94977144-a310-41bd-b3c7-2f73997018f7)# Huffman-Shannon_fano
+# Huffman-Shannon_fano
 # Aim:
 Consider a discrete memoryless source with symbols and statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} for its output. 
 Apply the Huffman and Shannon-Fano to this source. 
